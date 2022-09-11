@@ -1,7 +1,7 @@
-import TodoList from "./components/TodoList";
-
+import NFTList from "./components/NFTList";
+import BlackPink from "./components/BlackPink";
 function App() {
-  return <TodoList />;
+  return <NFTList />;
 }
 
 export default App;
