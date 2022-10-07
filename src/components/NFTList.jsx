@@ -1,6 +1,6 @@
 /**
- * 
- *  다음과 같을때 이름이 “Cat”일경우 😺 이름이  “Dog”일경우 🐶 화면에 보이도록 작성해보세요
+ *
+ *  다음과 같을때 이름이 “Cat”일경우 😺 이름이  “Dog”일경우 🐶 화면에 보이도록 작성해보세요hw-08-conditional-rendering.git  hw-08-conditional-rendering.git
  */
 function NFT({ name, color, price }) {
   return (
